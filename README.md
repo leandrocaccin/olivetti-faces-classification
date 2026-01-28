@@ -10,6 +10,10 @@ Image classification project using the Olivetti Faces dataset.
 - Confusion matrix evaluation  
 
 ## 📂 Project Structure
+```
+olivetti_faces.ipynb
+README.md
+```
 
 ## 🛠 Technologies
 - Python  
